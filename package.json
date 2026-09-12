@@ -1,0 +1,9 @@
+{
+  "name":"sk-digital-store",
+  "version":"1.0.0",
+  "private":true,
+  "description":"SK Digital Store with Razorpay server-side order and signature verification starter",
+  "main":"server.js",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"express":"^4.21.2","razorpay":"^2.9.6"}
+}

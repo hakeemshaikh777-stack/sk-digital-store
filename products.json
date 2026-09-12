@@ -1,0 +1,137 @@
+[
+  {
+    "id": "canva-social",
+    "name": "Canva Social Media Pack",
+    "price": 199,
+    "icon": "🎨",
+    "tag": "Popular",
+    "cat": "creative",
+    "desc": "50 practical post and story design resources for creators and small businesses."
+  },
+  {
+    "id": "resume",
+    "name": "Professional Resume Pack",
+    "price": 149,
+    "icon": "📄",
+    "tag": "Career",
+    "cat": "career",
+    "desc": "Modern CV and resume resources for a clean, professional job application."
+  },
+  {
+    "id": "ai-prompts",
+    "name": "AI Prompt Mega Pack",
+    "price": 249,
+    "icon": "🤖",
+    "tag": "Best Seller",
+    "cat": "ai",
+    "desc": "500+ practical prompts for everyday work, writing and content creation."
+  },
+  {
+    "id": "excel",
+    "name": "Excel Business Toolkit",
+    "price": 299,
+    "icon": "📊",
+    "tag": "Business",
+    "cat": "business",
+    "desc": "Ready-to-use trackers, planning sheets and practical business templates."
+  },
+  {
+    "id": "marketing",
+    "name": "Digital Marketing Guide",
+    "price": 199,
+    "icon": "📚",
+    "tag": "Guide",
+    "cat": "marketing",
+    "desc": "A beginner-friendly guide to digital marketing fundamentals and workflow."
+  },
+  {
+    "id": "branding",
+    "name": "Branding Starter Kit",
+    "price": 349,
+    "icon": "✨",
+    "tag": "Premium",
+    "cat": "branding",
+    "desc": "Starter resources for logo planning, colours and consistent brand direction."
+  },
+  {
+    "id": "notion-freelancer",
+    "name": "Notion Freelancer OS",
+    "price": 399,
+    "icon": "🧠",
+    "tag": "Trending",
+    "cat": "productivity",
+    "desc": "A practical freelancer workspace for clients, projects, invoices, tasks and content planning."
+  },
+  {
+    "id": "content-calendar",
+    "name": "30-Day Content Calendar",
+    "price": 199,
+    "icon": "🗓️",
+    "tag": "Creator Pick",
+    "cat": "marketing",
+    "desc": "A 30-day planning system with ideas, hooks, captions and publishing workflow."
+  },
+  {
+    "id": "capcut-reels",
+    "name": "Reels & CapCut Creator Pack",
+    "price": 299,
+    "icon": "🎬",
+    "tag": "Trending",
+    "cat": "creator",
+    "desc": "Short-form video planning resources, hooks, shot lists and editing workflow templates."
+  },
+  {
+    "id": "money-planner",
+    "name": "Personal Finance Planner",
+    "price": 249,
+    "icon": "💰",
+    "tag": "New",
+    "cat": "productivity",
+    "desc": "Budget, savings, recurring-expense and goal-tracking resources for everyday money management."
+  },
+  {
+    "id": "freelance-kit",
+    "name": "Freelancer Client Kit",
+    "price": 449,
+    "icon": "💼",
+    "tag": "Premium",
+    "cat": "business",
+    "desc": "Client onboarding, proposal, scope, invoice and follow-up templates in one toolkit."
+  },
+  {
+    "id": "figma-ui",
+    "name": "Figma UI Starter Kit",
+    "price": 499,
+    "icon": "🧩",
+    "tag": "Pro",
+    "cat": "design",
+    "desc": "Reusable UI sections and wireframe resources for landing pages and app concepts."
+  },
+  {
+    "id": "email-swipes",
+    "name": "Email Swipe & Copy Kit",
+    "price": 249,
+    "icon": "✉️",
+    "tag": "Popular",
+    "cat": "marketing",
+    "desc": "Ready-to-customize email structures for launches, offers, follow-ups and retention."
+  },
+  {
+    "id": "ai-workflows",
+    "name": "AI Workflow Automation Pack",
+    "price": 599,
+    "icon": "⚙️",
+    "tag": "AI Pro",
+    "cat": "ai",
+    "desc": "Practical AI workflow blueprints for content, research, support and repetitive tasks."
+  },
+  {
+    "id": "creator-growth",
+    "name": "Creator Growth Planner",
+    "price": 299,
+    "icon": "🚀",
+    "tag": "New",
+    "cat": "creator",
+    "desc": "A practical planner for content goals, audience growth, experiments and weekly reviews."
+  }
+]
